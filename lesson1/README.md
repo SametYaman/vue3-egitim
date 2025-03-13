@@ -1,5 +1,36 @@
-# Vue 3 + Vite
+# Lesson 1: Vue 3'e Giriş
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 📚 Konu Başlıkları
+- Vue.js nedir?
+- Vue 3'ün getirdiği yenilikler
+- Vue 3 kurulum seçenekleri
+- İlk Vue 3 uygulaması
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🎯 Hedefler
+- Vue.js'in temel kavramlarını anlamak
+- Vue 3'ün yeniliklerini öğrenmek
+- Vite ile Vue 3 projesi oluşturmayı öğrenmek
+- Basit bir Vue 3 uygulaması geliştirmek
+
+## 📋 Proje Detayları
+Bu projede:
+- Vite kullanarak yeni bir Vue 3 projesi oluşturduk
+- Composition API'nin temel kullanımını gösterdik
+- Reaktif state yönetimini öğrendik
+- Template syntax'ı inceledik
+- Scoped styling kullandık
+
+## 🚀 Projeyi Çalıştırma
+```bash
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
+npm run dev
+```
+
+## ⏳ Tahmini Süre
+1 saat
+
+## ⭐ Zorluk Seviyesi
+Başlangıç seviyesi (⭐)
